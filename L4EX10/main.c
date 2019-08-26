@@ -37,7 +37,7 @@ int main ()
                     valorGarcom = totalConta * 0.1;
                     printf("\n-----------------------------------------------------\n");
                     printf("\n\tTOTAL MESA:\t\t\t%.2f", totalConta);
-                    printf("\n\tTAXA GARSOM:\t\t\t%.2f", valorGarcom);
+                    printf("\n\tTAXA GARCOM:\t\t\t%.2f", valorGarcom);
                     printf("\n\tTOTAL A PAGAR:\t\t\t%.2f", (totalConta + valorGarcom));
                     printf("\n\tTOTAL DIVIDO POR PESSOA:\t%.2f", (totalConta + valorGarcom) / totalPessoasMesa);
                     printf("\n\n-----------------------------------------------------\n");
